@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I'm currently working with blockchain technology.
+- ⚙️ I use daily: Python/TS/Docker/GitHub Actions
+
+
+
+✍️ Contact me with telegram @SoloCrack
+
 <!--
 **stepanLav/stepanLav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
