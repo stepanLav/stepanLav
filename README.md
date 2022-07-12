@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working with blockchain technology.
-- ⚙️ I use daily: Python/TS/Docker/GitHub Actions
+- ⚙️ I use daily: Python/TypeScript/Docker/GitHub Actions
 
 
 
