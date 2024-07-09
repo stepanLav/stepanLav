@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working with blockchain technology.
-- ⚙️ I use daily: Python/TypeScript/Docker/GitHub Actions
+- 🔭 I'm currently working with blockchain technologies.
+- ⚙️ I use daily: Python/TypeScript/Docker/k8s/GitHub Actions
 
 ✍️ Contact me with telegram @SoloCrack
 
